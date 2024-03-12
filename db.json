@@ -11,6 +11,10 @@
     {
       "id": 3,
       "name": "AXIS Bank"
+    },
+    {
+      "id": 4,
+      "name": "CITI Bank"
     }
   ],
   "dates": [
